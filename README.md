@@ -1,0 +1,2 @@
+# homebrew-openspider
+Homebrew Openspider
