@@ -1,6 +1,6 @@
 cask "openspider@beta" do
-  version "1.0.0-rc.1"
-  sha256 "b6240dd11ab4121c830985dc90e2fea0ed48c6c1768fed77ba82aea00653a819"
+  version "1.0.0"
+  sha256 "91b6763c7c37101969e1bd554cc5082bbc3986af6d5bb1d73f0f334252deae8a"
 
   url "https://github.com/wojcikdominik/openspider/releases/download/v#{version}/OpenSpider_#{version}_universal.dmg"
   name "OpenSpider"
